@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
 
-
+![Captura de InventoryApp](.readme-static/captura.png)
 
 👀 [See the application ](https://inventory-app-elsrfopisn.now.sh)
 
